@@ -1,20 +1,5 @@
 ## Bem-vindo(a) ao perfil da Elaine Dev On😁
 
- <div>
-   <a href="https://github.com/eladevon">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eladevon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eladevon&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
-<br>
- 
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
   <a href="https://www.youtube.com/eladevon" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -23,3 +8,33 @@
   <a href = "mailto:eladevon@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+## Sobre mim
+
+🎓 Sou graduada em Sistemas de Informação - UFPI <br>
+👩‍💻 Sou Software Developer  <br>
+✍️ Sou professora nos cursos Técnicos de Informática e Desenvolvimento de Software na escola pública do Piauí <br>
+🔭 No momento estou mergulhando no mundo da Robótica <br>
+📚 Eu amo estudar e também compartilhar o que aprendo <br>
+
+## Competência
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+<br>
+
+## Status
+
+ <div>
+   <a href="https://github.com/eladevon">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eladevon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eladevon&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+    
+
+ 
+
+ 
+
