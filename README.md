@@ -14,7 +14,7 @@
 
 🎓 Sou graduada em Sistemas de Informação - UFPI, <br>
 👩‍💻 Software Developer , e <br>
-✍️ Professora nos cursos Técnicos de Informática e Desenvolvimento de Software na escola pública do Piauí <br>
+✍️ Professora nos cursos Técnicos de Informática e Desenvolvimento de Sistemas na escola pública do Piauí <br>
 🔭 No momento estou mergulhando no mundo da Robótica <br>
 📚 Eu amo estudar e também compartilhar o que aprendo <br>
 
