@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./assets/css/home-page-styles.css">
+  <script src="./assets/scripts/script.js"></script>
+  <title>Elaine | Línguas e Linguagens</title>
+</head>
+<body>
+  <nav class="s-menu">
+    <ul>
+      <!--<li class="s-menu__item">
+        <a href="./index.html">Home Page</a>
+      </li>-->
+      <li class="s-menu__item">
+        <a href="./pages/dev/front.html">Developer</a>
+      </li>
+      <li class="s-menu__item">
+        <a href="./pages/dba/powerbi.html">Data Scientist</a>
+      </li>
+      <li class="s-menu__item s-menu__icon">
+        <img src="./assets/images/icons/elaine4962.ico" alt="Elaine icone">
+      </li>
+      <li class="s-menu__item">
+        <a href="./pages/iot/automacao.html">IOT/Robótica</a>
+      </li>
+      <li class="s-menu__item">
+        <a href="./pages/idioma/espanhol.html">Idiomas</a>
+      </li>
+    </ul>
+  </nav>
+  <div class="s-container">
+    <audio src="./assets/videos/elaine.mp34" autoplay loop hidden></audio>
+    <div class="s-cards-carousel" style="transform: translateZ(-40vw) rotateY(0deg);">
+      <a href="./pages/dev/front.html" class="s-card" id="elaine-perfil-01">
+        <img class="s-card__background" src="./assets/images/elaine_digita.jpeg">
+        <img class="s-card__image" src="./assets/images/elaine_espelho.png" alt="Developer">
+        <h2 class="s-card__title">Developer</h2>
+      </a>
+      <a href="./pages/dba/powerbi.html" class="s-card" id="elaine-perfil-02">
+        <img class="s-card__background" src="./assets/images/elaine_note.jpeg">
+        <img class="s-card__image" src="./assets/images/elaine_ideb.png" alt="Data Scientist">
+        <h2 class="s-card__title">Data Scientist</h2>
+      </a>
+      <a href="./pages/iot/automacao.html" class="s-card" id="elaine-perfil-03">
+        <img class="s-card__background" src="./assets/images/sala_mesa_robotica.jpeg">
+        <img class="s-card__image" src="./assets/images/elaine_iphone.png" alt="IOT/Robótica">
+        <h2 class="s-card__title">IOT Robótica</h2>
+      </a>
+      <a href="./pages/idioma/espanhol.html" class="s-card" id="elaine-perfil-04">
+        <img class="s-card__background" src="./assets/images/sala_de_aula.jpg">
+        <img class="s-card__image" src="./assets/images/elaine_s2.png" alt="Idiomas">
+        <h2 class="s-card__title">Idiomas</h2>
+      </a>
+      
+    </div>
+  </div>
+
+  <div class="s-controller">
+    <div id="1" onclick="selectCarouselItem(this)" class="s-controller__button s-controller__button--active">
+      01
+    </div>
+    <div id="2" onclick="selectCarouselItem(this)" class="s-controller__button">
+      02
+    </div>
+    <div id="3" onclick="selectCarouselItem(this)" class="s-controller__button">
+      03
+    </div>
+    <div id="4" onclick="selectCarouselItem(this)" class="s-controller__button">
+      04
+    </div>
+    <div class="s-controller__line"></div>
+  </div>
+</body>
+</html>
